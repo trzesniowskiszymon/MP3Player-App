@@ -10,8 +10,8 @@ Mp3 Player application using JavaFX, Java, some CSS and Maven.
 
 ### Introduction
 Hello! 
-This application is made to listen your favorite music on my MP3 Player. You can open it in a frame and add your mp3 files to listen. There are few options in app like Open Mp3
-file which you can add from your computer, open directory of file, and close application and Help section with About option where's all about this application.
+This application is made to listen to your favorite music on MP3 Player. You can open it in a frame and add your .mp3 files to listen. There are a few options in app like Open Mp3
+file which you can choose from your computer, open directory of file, close application and "Help" section with "About" option where are all the information about this application.
 
 ### Technologies
 Project is created with:
